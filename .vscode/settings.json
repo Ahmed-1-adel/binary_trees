@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "*.pub": "bibtex",
+    "binary_trees.h": "c"
+  }
+}
